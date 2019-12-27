@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-
 import './App.css';
+
+// Making a comment here for a git test
 
 import { CardList } from './components/card-list/card-list.component';
 
